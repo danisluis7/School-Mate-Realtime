@@ -1,0 +1,3 @@
+- Install viewpaper on screen
+- Create Json announcement to announce ???
+- How app get json real time
